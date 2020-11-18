@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T03:51:41.476Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="RF5RsQ2gwyl5-EQzWM3w" version="13.9.9" type="github"><diagram id="JK_e7Gj5lwf6ZJOVMQ-f" name="Page-1">3ZVNb4MwDIZ/DcdJfPSDXtd222HdYT1U2y0CD5gCpsGUdr9+oRgo6/p1qDrtRPzYkeM3b4ThjOP1oxJpOEMfpGGb/tpwJoZtW5Y70J+SbCoyNJ0KBCryuagF8+gLGJpM88iHrFNIiJKitAs9TBLwqMOEUlh0yz5QdrumIoA9MPeE3KeLyKewoq49bPkTREFYd7YGoyoTi7qYJ8lC4WOxg5yp4YwVIlWreD0GWYpX61LteziQbQ6mIKFzNvSy4CVbuu74fVksXqczeJv07vh2VkLmPDAflja1AuBrQThERSEGmAg5bem9wjzxoWxj6qiteUZMNbQ0/ASiDd+uyAk1CimWnK16lo0OzsYow1x5cGSgHntEqADoSF2/uQFtXcAYSG30PgVSULTqnkOwh4KmrpVZL1jpC1TvnaG6lNripbpFGBHMU7Edu9Cv7DftVqAI1sfV25+23mCyRfmNWg7HRet4q7ZxuON217ySQO5/s2X/TFsOb2nL/t+2pT26tS2HpwW6vizOD1ma+JQsg8tl0WH7g9rmdn7zzvQb</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-18T03:52:25.580Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="OB4WX9HQWHVIyULPhFL4" version="13.9.9" type="github" pages="4">
+  <diagram id="JK_e7Gj5lwf6ZJOVMQ-f" name="促销">
+    <mxGraphModel dx="1186" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MkEyeUHqKN9V3XCAk0Xc" name="价格">
+    <mxGraphModel dx="1186" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="f7BM8bH0X_LfhVBfB_la-0" />
+        <mxCell id="f7BM8bH0X_LfhVBfB_la-1" parent="f7BM8bH0X_LfhVBfB_la-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-z63jFACksyZIikcjNuC" name="令牌">
+    <mxGraphModel dx="1186" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="c34HF-Ey2tSLLKiewUGk-0" />
+        <mxCell id="c34HF-Ey2tSLLKiewUGk-1" parent="c34HF-Ey2tSLLKiewUGk-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VLYrfAHmgEHA55iAUUB_" name="活动">
+    <mxGraphModel dx="1186" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="fuHc5xvFvxz3mAs5fZIJ-0" />
+        <mxCell id="fuHc5xvFvxz3mAs5fZIJ-1" parent="fuHc5xvFvxz3mAs5fZIJ-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
